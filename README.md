@@ -3,7 +3,7 @@ This project focuses on analyzing sales and financial data of AtliQ Hardwear usi
 
 ## Sales Report
 ### Customer Performance Report
-This report analyzes customer behavior and performance. It provides insights into customer segmentation, purchasing patterns, and key performance indicators. You can find the report here.
+This report analyzes customer behavior and performance. It provides insights into customer segmentation, purchasing patterns, and key performance indicators. You can find the report [here](https://github.com/Abhinav-Peddemoni/Sales-Analysis-Excel/blob/db6bb3113a5a35fb43f76fd8e58f89face9145aa/Customer%20Performance%20report.pdf).
 
 ### Market Performance vs. Sales Targets Report
 This report conducts a comprehensive comparison between market performance and sales targets. It helps evaluate the effectiveness of sales strategies and identify areas for improvement. You can find the report here.
